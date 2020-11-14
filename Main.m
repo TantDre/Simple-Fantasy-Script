@@ -1,6 +1,6 @@
 % Input
 run Data.m
-budget = 104.4;
+budget = 100;
 
 % Magic
 combs = nchoosek(drivers(:,1),5);
