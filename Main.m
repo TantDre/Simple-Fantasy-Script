@@ -2,7 +2,7 @@ clear
 clc
 
 % Input
-run Data.m
+run Data_2020.m
 budget = 100;
 
 % Magic
