@@ -4,7 +4,7 @@ clc
 
 % ------ Input ------
 run Data_2021.m
-budget = 100;
+budget = 100.1;
 % -------------------
 
 % Test all combinations
